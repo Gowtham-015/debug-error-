@@ -13,5 +13,9 @@
 ###2. JavaScript Error
 
 document.getElementById("counter")
+
+
    Changed it to:
+   
            document.getElementById("count")
+
